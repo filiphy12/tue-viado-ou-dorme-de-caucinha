@@ -58,7 +58,7 @@
     </div>
     <div class="container">
         <div class="product">
-            <img src="https://www.bing.com/images/blob?bcid=TluGSWnzjh8I5cYsWZ3VyWYbfmQU.....2Q" alt="Produto 1">
+            <img src="https://lens.usercontent.google.com/image?vsrid=CJeGlZmx2vybOxACGAEiJDQ4YTE4MjQ0LTJiNTEtNDMwNy1iZDE4LWFlYzIzMWM0OGRhMA&gsessionid=idH4wYmi2wXcRR_ne96NQd3YyyUdyCNdIu-3uonrHypy2EhjXqjyeQ" alt="Produto 1">
             <h3>Produto 1</h3>
             <p>R$ 100,00</p>
         </div>
