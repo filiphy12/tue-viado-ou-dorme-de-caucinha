@@ -52,7 +52,7 @@
 </head>
 <body>
     <div class="header">
-        <h1>DESGRAÇA LIVRE E O BRED PORRA</h1>
+        <h1>Ddrogas</h1>
         
         <input type="text" class="search-bar" placeholder="Buscar produtos...">
     </div>
